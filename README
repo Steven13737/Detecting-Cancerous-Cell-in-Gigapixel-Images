@@ -1,1 +1,6 @@
-this is a empty repository 
+# Getting start
+-- dp_getdata.ipynb: Prepare training data for the following steps
+-- dp_model.ipynb: construct and train multi-scale model, provide metrics in patches level
+-- dp_predict.ipynb: detect cancerous cell through sliding window, draw heatmap and privide metrics in pixel level
+
+
